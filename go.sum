@@ -1,0 +1,12 @@
+github.com/fsnotify/fsnotify v1.6.0 h1:1G7g/ZxcPzA2Y6mCJLkrmKl+llV1jJ5nYrl21Cq4mx0=
+github.com/fsnotify/fsnotify v1.6.0/go.mod h1:6Pj15FHE4OeCl7ZndXf8Z3UoimDSwcjciLjoV2K1xJs=
+github.com/spf13/afero v1.7.4 h1:1CTV1OZ3BF9H4w6vyYwrpXVaoTIjRbmFjl8Y0Nq0nyw=
+github.com/spf13/afero v1.7.4/go.mod h1:6I+aFKI3k6Ew2pM60Sfi+kZVjyzjHg4QseNHlUIEwD0=
+github.com/spf13/cast v1.5.0 h1:JpUDHI0zYZBaOSli8HJuD3BVlqM+sYmIvVq5fHkL/Hc=
+github.com/spf13/cast v1.5.0/go.mod h1:4BQkUy6M40rEtYa3LZlrHIcfuSLR/5+NE9OzFbL14z4=
+github.com/spf13/cobra v1.6.1 h1:yPsbz93q6g/8JAFSGPVQfrCkz7vnAGYGTVmEtQvXWcg=
+github.com/spf13/cobra v1.6.1/go.mod h1:i1R9BQbG69gvCw7jKp4h3jP1V44yhK/3NRsvuLw3s5I=
+github.com/spf13/pflag v1.0.5 h1:FIg4F6GhIX6or8Rf7OtbsR18A64cFDbeucGmHp/N8b8=
+github.com/spf13/pflag v1.0.5/go.mod h1:j5L+qhwPuVikZ8Jq9jd45/6PR02O8T9E9IuN77ZT6SM=
+github.com/spf13/viper v1.12.0 h1:GFM7wXUrI9kIm4z7Pzb+XkDl84otYvEZB/tZfGXsIFg=
+github.com/spf13/viper v1.12.0/go.mod h1:ilEdbMB31MgORRWVJR1DT8dQfjNKKNR0DCi+n8UvRA4=
